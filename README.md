@@ -1,4 +1,4 @@
-# board-game-ai
+# AI Board Game
 
 This is an assignment for the Introduction to Artificial Intelligence course in my university.
 
