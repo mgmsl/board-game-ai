@@ -1,5 +1,5 @@
 # AI Board Game
 
-This is an assignment for the Introduction to Artificial Intelligence course in my university.
+This is an assignment for the Introduction to Artificial Intelligence course in Yeditepe University.
 
-The AI can play on this specific board game. Alpha-beta pruning is used.
+The AI can play on a specific checkers-like game. Alpha-beta pruning is used.
